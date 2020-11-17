@@ -1,0 +1,4 @@
+"Scott Brickler <scott.brickler@solutionsx.com>"="Scott Brickler <scott.brickler@cadtalk.com>"
+"scott.brickler@solutionsx.com"="Scott Brickler <scott.brickler@cadtalk.com>"
+"Rodney Thomas <rodney.thomas@solutionsx.com>"="Rodney Thomas <rodney.thomas@cadtalk.com>"
+"rodney.thomas@solutionsx.com"="Rodney Thomas <rodney.thomas@cadtalk.com>"
